@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "475391175933",
+    "project_id": "pokemonpokedex-528e2",
+    "storage_bucket": "pokemonpokedex-528e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475391175933:android:a4ac9fffb168c39e01a294",
+        "android_client_info": {
+          "package_name": "com.example.alakazam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475391175933-r6bgrbo1b77o2qupad99f14jn9sgvqrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZJyrxE8BpHcwu23T6gR7fek8uxQ7B2BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475391175933-r6bgrbo1b77o2qupad99f14jn9sgvqrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475391175933:android:87db727aab396ed201a294",
+        "android_client_info": {
+          "package_name": "com.example.pokemonpokedex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475391175933-r6bgrbo1b77o2qupad99f14jn9sgvqrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZJyrxE8BpHcwu23T6gR7fek8uxQ7B2BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475391175933-r6bgrbo1b77o2qupad99f14jn9sgvqrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
