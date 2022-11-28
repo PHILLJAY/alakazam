@@ -23,5 +23,7 @@ class MainActivity : AppCompatActivity() {
             Log.d("auth", "not logged in")
             startActivity(Intent(this, LoginRegisterActivity::class.java))
         }
+
+        //TODO write code here
     }
 }
