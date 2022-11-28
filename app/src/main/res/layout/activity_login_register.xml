@@ -28,7 +28,8 @@
         app:layout_constraintTop_toBottomOf="@id/loginRegisterText"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
-        android:layout_marginTop="100dp"/>
+        android:layout_marginTop="100dp"
+        android:hint="@string/email"/>
 
     <EditText
         android:id="@+id/editTextTextPassword"
@@ -40,7 +41,9 @@
         android:autofillHints="password"
         app:layout_constraintTop_toBottomOf="@id/editTextTextEmailAddress"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"/>
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginTop="30dp"
+        android:hint="@string/password"/>
 
     <Button
         android:id="@+id/loginButton"
