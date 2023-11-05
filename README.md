@@ -1,4 +1,5 @@
 # Alakazam
+![The Pokemon Alakazam](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png)
 
 Alakazam is a Kotlin-based Android application that uses the Firebase login system and fetches Pokémon data from the PokeAPI v2 to show you stats and info about Pokémon.
 
