@@ -24,14 +24,6 @@ These instructions will get you a copy of the project up and running on your loc
 3. Connect Firebase with the app by following these instructions.
 4. Run the app on an emulator or a real device.
 
-## Usage
-
-Provide instructions on how to use your app here.
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 ## License
 
 MIT
